@@ -1,2 +1,1 @@
-# snake_game-
-a snake game that can be played by anyone with a device and a proper internet..........
+
